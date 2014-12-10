@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.obj
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
@@ -19,37 +20,23 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
 
-# =========================
-# Operating System Files
-# =========================
+# 
+*.sdf
+*.suo
+*.log
+*.tlog
+*.opensdf
+*.lastbuildstate
+*.ilk
 
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Ignore folders
+build/
+doxygen/DoxygenOutput/html
+Documents/
 
 # Windows
 # =========================
