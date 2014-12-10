@@ -1,6 +1,6 @@
-# Bézier Curves
+# BÃ©zier Curves
 ---------------------
-This project contains some mathematical fun and various algorithms for manipulating cubic Bézier curves.
+This project contains some mathematical fun and various algorithms for manipulating cubic BÃ©zier curves.
 
 Below is a short description of the theory (not yet merged in ...).
 
@@ -18,10 +18,12 @@ Doxyfile provided in the Doxygen folder.
 
 #### Circular arc approximation
 
+![image](pics/eqn/eqn_arc.png?raw=true)
+
 #### Projection
 
 
-![image](pisc/eqn/eqn_arc.png?raw=true)
+
 
 
 
